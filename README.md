@@ -5,8 +5,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/bhaktas484-web/Leetcode/tree/master/0035-search-insert-position) |
+| [0877-stone-game](https://github.com/bhaktas484-web/Leetcode/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/bhaktas484-web/Leetcode/tree/master/0035-search-insert-position) |
+## Math
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/bhaktas484-web/Leetcode/tree/master/0877-stone-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/bhaktas484-web/Leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/bhaktas484-web/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
