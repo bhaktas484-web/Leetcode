@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bhaktas484-web/Leetcode/tree/master/0002-add-two-numbers) |
 | [0412-fizz-buzz](https://github.com/bhaktas484-web/Leetcode/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/bhaktas484-web/Leetcode/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bhaktas484-web/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -70,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/bhaktas484-web/Leetcode/tree/master/0412-fizz-buzz) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/bhaktas484-web/Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/bhaktas484-web/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
