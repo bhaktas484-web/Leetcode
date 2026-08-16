@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/bhaktas484-web/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/bhaktas484-web/Leetcode/tree/master/0877-stone-game) |
 | [1480-running-sum-of-1d-array](https://github.com/bhaktas484-web/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [2029-stone-game-ix](https://github.com/bhaktas484-web/Leetcode/tree/master/2029-stone-game-ix) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/bhaktas484-web/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/bhaktas484-web/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/bhaktas484-web/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/bhaktas484-web/Leetcode/tree/master/0002-add-two-numbers) |
 | [0412-fizz-buzz](https://github.com/bhaktas484-web/Leetcode/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/bhaktas484-web/Leetcode/tree/master/0877-stone-game) |
+| [2029-stone-game-ix](https://github.com/bhaktas484-web/Leetcode/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bhaktas484-web/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/bhaktas484-web/Leetcode/tree/master/0877-stone-game) |
+| [2029-stone-game-ix](https://github.com/bhaktas484-web/Leetcode/tree/master/2029-stone-game-ix) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/bhaktas484-web/Leetcode/tree/master/2029-stone-game-ix) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/bhaktas484-web/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Sorting
 |  |
@@ -155,4 +159,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bhaktas484-web/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Greedy
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/bhaktas484-web/Leetcode/tree/master/2029-stone-game-ix) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/bhaktas484-web/Leetcode/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/bhaktas484-web/Leetcode/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/bhaktas484-web/Leetcode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
