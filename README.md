@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhaktas484-web/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bhaktas484-web/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/bhaktas484-web/Leetcode/tree/master/0877-stone-game) |
+| [1470-shuffle-the-array](https://github.com/bhaktas484-web/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/bhaktas484-web/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/bhaktas484-web/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2029-stone-game-ix](https://github.com/bhaktas484-web/Leetcode/tree/master/2029-stone-game-ix) |
