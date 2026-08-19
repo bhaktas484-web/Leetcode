@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/bhaktas484-web/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/bhaktas484-web/Leetcode/tree/master/0877-stone-game) |
 | [1480-running-sum-of-1d-array](https://github.com/bhaktas484-web/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1920-build-array-from-permutation](https://github.com/bhaktas484-web/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2029-stone-game-ix](https://github.com/bhaktas484-web/Leetcode/tree/master/2029-stone-game-ix) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/bhaktas484-web/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/bhaktas484-web/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/bhaktas484-web/Leetcode/tree/master/0412-fizz-buzz) |
+| [1920-build-array-from-permutation](https://github.com/bhaktas484-web/Leetcode/tree/master/1920-build-array-from-permutation) |
 ## Linked List
 |  |
 | ------- |
