@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/bhaktas484-web/Leetcode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bhaktas484-web/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/bhaktas484-web/Leetcode/tree/master/0877-stone-game) |
+| [0918-maximum-sum-circular-subarray](https://github.com/bhaktas484-web/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1470-shuffle-the-array](https://github.com/bhaktas484-web/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/bhaktas484-web/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/bhaktas484-web/Leetcode/tree/master/1920-build-array-from-permutation) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/bhaktas484-web/Leetcode/tree/master/0053-maximum-subarray) |
 | [0877-stone-game](https://github.com/bhaktas484-web/Leetcode/tree/master/0877-stone-game) |
+| [0918-maximum-sum-circular-subarray](https://github.com/bhaktas484-web/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Game Theory
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/bhaktas484-web/Leetcode/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/bhaktas484-web/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## String
 |  |
 | ------- |
@@ -190,4 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/bhaktas484-web/Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/bhaktas484-web/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/bhaktas484-web/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
