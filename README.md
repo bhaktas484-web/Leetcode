@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/bhaktas484-web/Leetcode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bhaktas484-web/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/bhaktas484-web/Leetcode/tree/master/0877-stone-game) |
+| [0881-boats-to-save-people](https://github.com/bhaktas484-web/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bhaktas484-web/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1470-shuffle-the-array](https://github.com/bhaktas484-web/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/bhaktas484-web/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/bhaktas484-web/Leetcode/tree/master/0016-3sum-closest) |
 | [0414-third-maximum-number](https://github.com/bhaktas484-web/Leetcode/tree/master/0414-third-maximum-number) |
+| [0881-boats-to-save-people](https://github.com/bhaktas484-web/Leetcode/tree/master/0881-boats-to-save-people) |
 | [2733-neither-minimum-nor-maximum](https://github.com/bhaktas484-web/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3731-find-missing-elements](https://github.com/bhaktas484-web/Leetcode/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bhaktas484-web/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bhaktas484-web/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/bhaktas484-web/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0881-boats-to-save-people](https://github.com/bhaktas484-web/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Stack
 |  |
 | ------- |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/bhaktas484-web/Leetcode/tree/master/0881-boats-to-save-people) |
 | [2029-stone-game-ix](https://github.com/bhaktas484-web/Leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -206,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/bhaktas484-web/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/bhaktas484-web/Leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
