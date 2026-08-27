@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/bhaktas484-web/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1470-shuffle-the-array](https://github.com/bhaktas484-web/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/bhaktas484-web/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/bhaktas484-web/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/bhaktas484-web/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1991-find-the-middle-index-in-array](https://github.com/bhaktas484-web/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2029-stone-game-ix](https://github.com/bhaktas484-web/Leetcode/tree/master/2029-stone-game-ix) |
