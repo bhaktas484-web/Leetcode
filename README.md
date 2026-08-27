@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/bhaktas484-web/Leetcode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/bhaktas484-web/Leetcode/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/bhaktas484-web/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/bhaktas484-web/Leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/bhaktas484-web/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/bhaktas484-web/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/bhaktas484-web/Leetcode/tree/master/0414-third-maximum-number) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/bhaktas484-web/Leetcode/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/bhaktas484-web/Leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/bhaktas484-web/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/bhaktas484-web/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Pigeonhole Principle
