@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/bhaktas484-web/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0412-fizz-buzz](https://github.com/bhaktas484-web/Leetcode/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/bhaktas484-web/Leetcode/tree/master/0796-rotate-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/bhaktas484-web/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Simulation
 |  |
 | ------- |
