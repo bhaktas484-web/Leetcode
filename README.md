@@ -243,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/bhaktas484-web/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+## Database
+|  |
+| ------- |
+| [0619-biggest-single-number](https://github.com/bhaktas484-web/Leetcode/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->
