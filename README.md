@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/bhaktas484-web/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0412-fizz-buzz](https://github.com/bhaktas484-web/Leetcode/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/bhaktas484-web/Leetcode/tree/master/0796-rotate-string) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bhaktas484-web/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/bhaktas484-web/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Simulation
 |  |
@@ -254,4 +255,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/bhaktas484-web/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/bhaktas484-web/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bhaktas484-web/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
