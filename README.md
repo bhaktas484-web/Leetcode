@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhaktas484-web/Leetcode/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/bhaktas484-web/Leetcode/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/bhaktas484-web/Leetcode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/bhaktas484-web/Leetcode/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/bhaktas484-web/Leetcode/tree/master/0836-rectangle-overlap) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/bhaktas484-web/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/bhaktas484-web/Leetcode/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/bhaktas484-web/Leetcode/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/bhaktas484-web/Leetcode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bhaktas484-web/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -315,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/bhaktas484-web/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/bhaktas484-web/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
