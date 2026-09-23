@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/bhaktas484-web/Leetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/bhaktas484-web/Leetcode/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/bhaktas484-web/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/bhaktas484-web/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bhaktas484-web/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Math
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/bhaktas484-web/Leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/bhaktas484-web/Leetcode/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/bhaktas484-web/Leetcode/tree/master/0292-nim-game) |
+| [0367-valid-perfect-square](https://github.com/bhaktas484-web/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/bhaktas484-web/Leetcode/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/bhaktas484-web/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/bhaktas484-web/Leetcode/tree/master/0877-stone-game) |
