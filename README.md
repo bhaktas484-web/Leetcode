@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/bhaktas484-web/Leetcode/tree/master/0035-search-insert-position) |
 | [0051-n-queens](https://github.com/bhaktas484-web/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/bhaktas484-web/Leetcode/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/bhaktas484-web/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bhaktas484-web/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0137-single-number-ii](https://github.com/bhaktas484-web/Leetcode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/bhaktas484-web/Leetcode/tree/master/0162-find-peak-element) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/bhaktas484-web/Leetcode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/bhaktas484-web/Leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/bhaktas484-web/Leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/bhaktas484-web/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/bhaktas484-web/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/bhaktas484-web/Leetcode/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/bhaktas484-web/Leetcode/tree/master/0078-subsets) |
 ## Algorithm X
 |  |
 | ------- |
