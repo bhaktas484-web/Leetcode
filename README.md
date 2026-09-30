@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/bhaktas484-web/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/bhaktas484-web/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/bhaktas484-web/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2553-separate-the-digits-in-an-array](https://github.com/bhaktas484-web/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/bhaktas484-web/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/bhaktas484-web/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/bhaktas484-web/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/bhaktas484-web/Leetcode/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/bhaktas484-web/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [2553-separate-the-digits-in-an-array](https://github.com/bhaktas484-web/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/bhaktas484-web/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Linked List
 |  |
