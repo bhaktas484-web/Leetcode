@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/bhaktas484-web/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/bhaktas484-web/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/bhaktas484-web/Leetcode/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/bhaktas484-web/Leetcode/tree/master/0392-is-subsequence) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/bhaktas484-web/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/bhaktas484-web/Leetcode/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/bhaktas484-web/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/bhaktas484-web/Leetcode/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/bhaktas484-web/Leetcode/tree/master/0796-rotate-string) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/bhaktas484-web/Leetcode/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/bhaktas484-web/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/bhaktas484-web/Leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/bhaktas484-web/Leetcode/tree/master/0078-subsets) |
@@ -340,5 +343,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/bhaktas484-web/Leetcode/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bhaktas484-web/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
