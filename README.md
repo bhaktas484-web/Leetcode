@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/bhaktas484-web/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2029-stone-game-ix](https://github.com/bhaktas484-web/Leetcode/tree/master/2029-stone-game-ix) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/bhaktas484-web/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/bhaktas484-web/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/bhaktas484-web/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/bhaktas484-web/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2553-separate-the-digits-in-an-array](https://github.com/bhaktas484-web/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/bhaktas484-web/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/bhaktas484-web/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bhaktas484-web/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/bhaktas484-web/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Math
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/bhaktas484-web/Leetcode/tree/master/0414-third-maximum-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/bhaktas484-web/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0881-boats-to-save-people](https://github.com/bhaktas484-web/Leetcode/tree/master/0881-boats-to-save-people) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/bhaktas484-web/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/bhaktas484-web/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2733-neither-minimum-nor-maximum](https://github.com/bhaktas484-web/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3731-find-missing-elements](https://github.com/bhaktas484-web/Leetcode/tree/master/3731-find-missing-elements) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/bhaktas484-web/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/bhaktas484-web/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2029-stone-game-ix](https://github.com/bhaktas484-web/Leetcode/tree/master/2029-stone-game-ix) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/bhaktas484-web/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/bhaktas484-web/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Minimax
 |  |
@@ -330,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/bhaktas484-web/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/bhaktas484-web/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Database
 |  |
