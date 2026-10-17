@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/bhaktas484-web/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/bhaktas484-web/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bhaktas484-web/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/bhaktas484-web/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/bhaktas484-web/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bhaktas484-web/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/bhaktas484-web/Leetcode/tree/master/3731-find-missing-elements) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/bhaktas484-web/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/bhaktas484-web/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/bhaktas484-web/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/bhaktas484-web/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bhaktas484-web/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/bhaktas484-web/Leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/bhaktas484-web/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/bhaktas484-web/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2733-neither-minimum-nor-maximum](https://github.com/bhaktas484-web/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/bhaktas484-web/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/bhaktas484-web/Leetcode/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
