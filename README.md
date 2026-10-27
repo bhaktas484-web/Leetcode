@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/bhaktas484-web/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/bhaktas484-web/Leetcode/tree/master/0877-stone-game) |
 | [2029-stone-game-ix](https://github.com/bhaktas484-web/Leetcode/tree/master/2029-stone-game-ix) |
+| [2235-add-two-integers](https://github.com/bhaktas484-web/Leetcode/tree/master/2235-add-two-integers) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/bhaktas484-web/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bhaktas484-web/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bhaktas484-web/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
