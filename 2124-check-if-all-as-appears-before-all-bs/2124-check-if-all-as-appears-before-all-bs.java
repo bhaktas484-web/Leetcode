@@ -1,10 +1,11 @@
 class Solution {
     public boolean checkString(String s) {
-        for(int i=1; i<s.length(); i++){
-             if(s.charAt(i-1)==s.charAt(i)){
-                continue;
-            }
-            if(s.charAt(i-1)>s.charAt(i)){
+        boolean seenB = false;
+        for (char c : s.toCharArray()) {
+            if (c == 'b') {
+                seenB = true;
+            } 
+            else if (seenB) {
                 return false;
             }
         }
