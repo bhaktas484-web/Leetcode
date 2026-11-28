@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/bhaktas484-web/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/bhaktas484-web/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/bhaktas484-web/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2540-minimum-common-value](https://github.com/bhaktas484-web/Leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/bhaktas484-web/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/bhaktas484-web/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2747-count-zero-request-servers](https://github.com/bhaktas484-web/Leetcode/tree/master/2747-count-zero-request-servers) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/bhaktas484-web/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/bhaktas484-web/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/bhaktas484-web/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2540-minimum-common-value](https://github.com/bhaktas484-web/Leetcode/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhaktas484-web/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/bhaktas484-web/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/bhaktas484-web/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2540-minimum-common-value](https://github.com/bhaktas484-web/Leetcode/tree/master/2540-minimum-common-value) |
 | [2747-count-zero-request-servers](https://github.com/bhaktas484-web/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/bhaktas484-web/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/bhaktas484-web/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/bhaktas484-web/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/bhaktas484-web/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhaktas484-web/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2540-minimum-common-value](https://github.com/bhaktas484-web/Leetcode/tree/master/2540-minimum-common-value) |
 ## Stack
 |  |
 | ------- |
